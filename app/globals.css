@@ -137,7 +137,7 @@
   }
 
   .card-hover {
-    @apply transition-all duration-300 hover:scale-105 hover:shadow-xl;
+    @apply transition-all duration-300 hover:scale-105 hover:shadow-lg;
   }
 
   .glass-effect {
